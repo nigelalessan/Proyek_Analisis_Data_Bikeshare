@@ -8,7 +8,7 @@ import numpy as np
 
 st.set_page_config(layout="wide", page_title='Streamlit-Nigel Alessandro')
 
-bike_day = pd.read_csv("bike_day.csv")
+bike_day = pd.read_csv("dashboard/bike_day.csv")
 
 
 
