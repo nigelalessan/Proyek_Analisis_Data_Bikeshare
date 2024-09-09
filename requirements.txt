@@ -4,4 +4,4 @@ pandas==2.1.4
 seaborn==0.13.0
 streamlit==1.30.0
 Babel==2.12.1
-plotly_express==0.4.0
+plotly==5.24.0
